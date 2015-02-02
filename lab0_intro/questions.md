@@ -5,10 +5,8 @@
 
 2.  What is the output of the ``cal`` command?
 
-        multi
-        line
-        answer
-
+    Cal is the command which displays a calendar. The user may specify the arguments to select one given month or format,  
+    otherwise the current month is displayed. 
 # Homework Questions
 
 1.  What is the ``grep``command?
