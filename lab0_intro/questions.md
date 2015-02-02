@@ -9,7 +9,7 @@
 # Homework Questions
 
 1.  What is the ``grep``command?
-    >   answer
+    >  The grep command searches a character or a chain of characters within a file. It returns the lines containing a match to the given arguments.
 
 2.  What is a *makefile*?
     >   answer
