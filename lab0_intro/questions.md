@@ -1,7 +1,7 @@
 # Warmup Questions
 
 1.  What is the clone url of this repository?
-    >   answer1
+    >   https://github.com/clcardenas/lab_vision/edit/master/lab0_intro/questions.md
 
 2.  What is the output of the ``cal`` command?
 
