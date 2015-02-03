@@ -21,12 +21,12 @@ GNU Project (2002, January 22). Retrieved from http://unixhelp.ed.ac.uk/
 4.  What does the ``-prune`` option of ``find`` do? Give an example
     > The prune option is used to exclude all of the  subdirectories when the user is searching for a directory.
 Ex: When the user looks for a directory, generally the output includes the subdirectories, unless, the option -prune be included.
->MacBook-Air-de-Jose:~ josedanielcardenasrincon$ find Movies
->Movies
->Movies/.DS_Store
->Movies/.localized
->MacBook-Air-de-Jose:~ josedanielcardenasrincon$ find Movies -prune
->Movies
+    > MacBook-Air-de-Jose:~ josedanielcardenasrincon$ find Movies
+    > Movies
+    > Movies/.DS_Store
+    > Movies/.localized
+    > MacBook-Air-de-Jose:~ josedanielcardenasrincon$ find Movies -prune
+    > Movies
 
 5.  Where is the file ``xxxxxx``
     >   answer
