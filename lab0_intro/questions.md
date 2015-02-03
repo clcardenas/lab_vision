@@ -34,7 +34,7 @@ GNU Project (2002, January 22). Retrieved from http://unixhelp.ed.ac.uk/
     > Cut is the command used to select portion of text. 
 
 9.  What does the ``wget`` command do?
-    >   The wget command downloads content from web pages.
+    >   The wget command is used to download content from web pages.
 
 10.  What does the ``diff`` command do?
     >   The diff command is capable to find differences between two files.
