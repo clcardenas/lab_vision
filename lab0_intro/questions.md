@@ -19,7 +19,7 @@ GNU Project (2002, January 22). Retrieved from http://unixhelp.ed.ac.uk/
     >   It is a repository used to save several versions of a software that is being developed.
 
 4.  What does the ``-prune`` option of ``find`` do? Give an example
-    > The prune option is used to exclude a directory when the user is searching for a file.----
+    > The prune option is used to exclude all of the  subdirectories when the user is searching for a directory.----
 
 5.  Where is the file ``xxxxxx``
     >   answer
