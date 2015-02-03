@@ -63,7 +63,7 @@ Movies
     Save this script as ``find_duplicates.sh`` in this directory and commit your changes to github
 
 16. What is the meaning of ``#! /bin/bash`` at the start of scripts?
-    >   answer
+    > This comment announces that we are going to invoke the shell bash from the bin directory.
 
 17. How many unique images are in the ``sipi_images`` folder?
     >   answer
