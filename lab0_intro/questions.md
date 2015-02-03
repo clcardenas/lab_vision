@@ -9,7 +9,8 @@
 # Homework Questions
 
 1.  What is the ``grep``command?
-    >  The grep command searches a character or a chain of characters within a file. It returns the lines containing a match to the given arguments.
+    >  The grep command searches a character or a chain of characters within a file. It returns the lines containing a match to the given arguments.  All 33 Chile miners freed in flawless rescue. 
+GNU Project (2002, January 22). Retrieved from http://unixhelp.ed.ac.uk/
 
 2.  What is a *makefile*?
     >   answer
@@ -18,7 +19,7 @@
     >   answer
 
 4.  What does the ``-prune`` option of ``find`` do? Give an example
-    >   answer
+    > The prune option is used to exclude a directory when the user is searching for a file.----
 
 5.  Where is the file ``xxxxxx``
     >   answer
@@ -30,7 +31,7 @@
     >   answer
 
 8.  What does the ``cut`` command do?
-    >   answer
+    > Cut is the command used to select portion of text. 
 
 9.  What does the ``wget`` command do?
     >   answer
