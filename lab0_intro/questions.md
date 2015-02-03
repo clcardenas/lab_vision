@@ -16,7 +16,7 @@ GNU Project (2002, January 22). Retrieved from http://unixhelp.ed.ac.uk/
     >  A makefile is set that contains text files which are prescribed to guide the user in the construction of software.
 
 3.  What is *git*?
-    >   answer
+    >   It is a repository used to save several versions of a software that is being developed.
 
 4.  What does the ``-prune`` option of ``find`` do? Give an example
     > The prune option is used to exclude a directory when the user is searching for a file.----
