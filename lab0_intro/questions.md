@@ -13,7 +13,7 @@
 GNU Project (2002, January 22). Retrieved from http://unixhelp.ed.ac.uk/
 
 2.  What is a *makefile*?
-    >   answer
+    >  A makefile is set that contains text files which are prescribed to guide the user in the construction of software.
 
 3.  What is *git*?
     >   answer
