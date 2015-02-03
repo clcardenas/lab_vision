@@ -50,7 +50,7 @@ Ex: When the user looks for a directory, generally the output includes the subdi
     >   answer
 
 12. What command will produce a table of Users and Shells sorted by shell (tip: using ``cut`` and ``sort``)
-    >   answer
+    >   w
 
 13. What command will produce the number of users with shell ``/sbin/nologin`` (tip: using ``grep`` and ``wc``)
     >   answer
