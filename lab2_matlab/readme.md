@@ -81,12 +81,12 @@ The [imread](http://www.mathworks.com/help/matlab/ref/imread.html) command is us
     
     What is the dimension of the output?
 
-    >   Answer
+    >   256x256 uint8
 
 3.  Read the ``4.2.03`` image
     What is the dimension of the output?
 
-    >   Answer
+    >   512x512x3 uint8
 
 ## Displaying Images
 
