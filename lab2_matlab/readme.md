@@ -99,7 +99,7 @@ The following commands can be used for displaying images
 2.  Try displaying the images read in the previous point using both commands
 3.  What are the differences?
 
-    >   Answer
+    >   El método image busca organizar una imagen como una matriz. Sin embargo no sigue los parámetros de la imagen y la representa en ejes que cambian su forma. Además, asume la imagen como de una matriz de color, lo que altera la imagen en escala de gris. 
 
 ## Writing Images
 
