@@ -164,7 +164,7 @@ These filters can be applied to a an image in order to remove noise.
 3.  Try different sizes for the filters
 4.  Which filter works best for salt & pepper noise?
 
-    > Answer
+    > For salt and pepper noise the median filter works better. This is because the median filter selects median values, avoiding the interactión between the extreme values (black or white) with the final image. Otherwise, the mean filter find the mean value, including the extreme values (salt and pepper) that are not part of the desired image. 
 
 For more on noise removal read http://www.mathworks.com/help/images/noise-removal.html
 
@@ -177,7 +177,7 @@ which can be otained from [fspecial](http://www.mathworks.com/help/images/ref/fs
 2.  Try different sizes for the filters
 3.  What differences do you notice?
 
-    > Answer
+    > Both filters are smoothers. The main difference between them are the artifacts created in the average filter. The gaussian filter preserves the forms and the objects, but the average adds lines or new forms. 
 
 ### Sharpen
 
@@ -185,11 +185,11 @@ The [imsharpen](http://www.mathworks.com/help/images/ref/imsharpen.html) functio
 
 1.  Sharp the ``5.1.12`` image. What do you notice?
 
-    > Answer
+    > No difference
 
 2.  Sharp a blurred image. What do you notice?
 
-    > Answer
+    > Significative improvement of borders and edges.
 
 ### Edge detection
 
@@ -204,7 +204,7 @@ Notice that the last two filters detect horizontal edges, in order to detect ver
 1.  Try applying this filters
 2.  What is the difference between prewitt and sobel?
 
-    > Answer
+    > There is not any noticeable difference.
 
 More sophisticated methods for finding edges can be found in the following pages
     -   http://www.mathworks.com/discovery/edge-detection.html
