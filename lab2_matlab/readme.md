@@ -150,7 +150,7 @@ We can do this to simulate difficult capture conditions, and evaluate the algori
 2.  Try the diffente noise types, and save the noisy images to the repository (5 images)
 3.  Try saving noisy images as jpg, what happens?
 
-    > Answer
+    >When the images are saved in the 'jpg' format, the noise is reduced down. However, this is not applicable to all of the intesities of noise, for example high parameters in the gaussian or "speckle" noise. 
 
 ### Median filter
 
